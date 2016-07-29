@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://pbs.twimg.com/profile_images/756525648903012356/u3_e9zKy.jpg"
+name: "Noemi Derzsy"
+title: "Research Associate"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
